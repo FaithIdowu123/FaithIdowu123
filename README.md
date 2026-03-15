@@ -4,8 +4,6 @@ Hello, GitHub! 👋
 
 I'm **Faith Oluwatise Idowu**, a student at **Brigham Young University–Idaho** interested in **software development, web development, and game development**. Welcome to my GitHub profile!
 
----
-
 ## About Me
 
 - I'm currently learning **software development** and building a strong foundation in programming.
@@ -15,8 +13,6 @@ I'm **Faith Oluwatise Idowu**, a student at **Brigham Young University–Idaho**
 - One of my projects so far is an **Inventory Management System written in C++**, which helped me practice **object-oriented programming and file handling**.
 - My long-term goal is to become a **professional software developer** and later transition into **game development**.
 - Ask me about **C++, Python basics, beginner programming concepts, and learning software development as a student**.
-
----
 
 ## Technologies and Tools
 
@@ -45,13 +41,9 @@ I'm **Faith Oluwatise Idowu**, a student at **Brigham Young University–Idaho**
 - Problem Solving
 - Basic Software Development Practices
 
----
-
 ## Let's Connect!
 
 - Here is my [LinkedIn](https://www.linkedin.com/in/faith-idowu-0650a9329/) profile
-
----
 
 Feel free to explore my repositories and don't hesitate to reach out.
 
