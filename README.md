@@ -2,7 +2,7 @@
 
 Hello, GitHub! 👋
 
-I'm **Faith Oluwatise Idowu**, a student at **Brigham Young University–Idaho** interested in **software development, web development, and game development**. Welcome to my GitHub profile!
+I'm **Faith Oluwatise Idowu**, a student at **Brigham Young University-Idaho** interested in **software development, web development, and game development**. Welcome to my GitHub profile!
 
 ## About Me
 
